@@ -1,5 +1,5 @@
 /**
- * Driver for starting movie store tests
+ * test Driver for starting movie store tests
  */
 
 #include <iostream>
